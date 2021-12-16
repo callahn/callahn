@@ -1,10 +1,4 @@
-        / \   
-   /\  /   \ /\
-  /  \/     /  \
- /  \\\    /    \
-/   // \
-    \\
-    //
+Broadcasting from the Mahoning Valley.
 
 <!---
 callahn/callahn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
